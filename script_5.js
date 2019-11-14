@@ -64,7 +64,7 @@ for(let index in books) {
 
 // Supprime le livre avec l'ID: 133712
 for(let index in books) {
-	if (books[index].id === 873495) {
+	if (books[index].id === 133712) {
 	  delete books[index];
 	}
 };
